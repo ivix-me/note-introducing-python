@@ -7,3 +7,5 @@ macOS High Sierra, Python 3.6
 PyCharm
 
 [图书链接](http://www.ituring.com.cn/book/1560)
+
+LAST 123/144 6.13
